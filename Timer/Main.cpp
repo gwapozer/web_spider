@@ -1,10 +1,3 @@
-// 
-// File:   Main.cc
-// Author: root
-//
-// Created on March 28, 2008, 9:16 PM
-//
-
 #include <stdlib.h>
 #include <stdio.h>
 
