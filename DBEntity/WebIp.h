@@ -1,9 +1,3 @@
-/* 
- * File:   WebIp.h
- * Author: root
- *
- * Created on February 7, 2009, 4:12 PM
- */
 
 #ifndef _WEBIP_H
 #define	_WEBIP_H
